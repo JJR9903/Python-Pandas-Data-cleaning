@@ -1,7 +1,7 @@
 PROPRIETARY REPOSITORY LICENSE AGREEMENT
 All Rights Reserved
 
-Copyright (c) 2023 Econometria S.A. 
+Copyright (c) 2022 Econometria S.A. 
 All rights reserved.
 
 1. OWNERSHIP
